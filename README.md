@@ -1,6 +1,6 @@
 
 <div >
-  <img src="Vollmed/Assets.xcassets/ChefDeliveryBanner.png" width="1000px">
+  <img src="assets/JornadaMilhasBanner.png" width="1000px">
 </div>
 
 <p align="center">
